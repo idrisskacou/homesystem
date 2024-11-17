@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# homesystem
-=======
-# Homesystem
+## Home System site on netilify 
+URL:  `https://homecoffeelove.netlify.app`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
@@ -28,12 +26,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-<<<<<<< HEAD
->>>>>>> 5cc70e1 (initial commit)
-=======
-
-<<<<<<< HEAD
-test
->>>>>>> 60f8f1b (test)
-=======
->>>>>>> 2110738 (commt)
