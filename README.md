@@ -32,5 +32,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 >>>>>>> 5cc70e1 (initial commit)
 =======
 
+<<<<<<< HEAD
 test
 >>>>>>> 60f8f1b (test)
+=======
+>>>>>>> 2110738 (commt)
